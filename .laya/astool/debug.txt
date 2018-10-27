@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:g:\Exercise\Rolling-box/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:g:\Exercise\Rolling-box/.actionScriptProperties.
+1,0.00,,0,output path:g:/Exercise/Rolling-box/bin/h5/
+1,0.00,,0,Main Class:g:/Exercise/Rolling-box/src/Main.as
+1,0.00,,0,output file:Main
+1,0.00,,0,compilerSourcePath g:/Exercise/Rolling-box/libs/laya/src/
+
+1,0.00,,0,Compile Path:g:/Exercise/Rolling-box/src/
+
+1,0.00,,0,Compile Path:g:/Exercise/Rolling-box/libs/laya/src/
+
+1,0.00,g:/Exercise/Rolling-box/src,0,Collect
+1,0.00,g:/Exercise/Rolling-box/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.71,,0,Disable Flash3D g:/Exercise/Rolling-box/src/Main.as
+12,89.71,g:/Exercise/Rolling-box/bin/h5/Main.max.js,732139,
+11,89.71,g:/Exercise/Rolling-box/bin/h5/Main.max.html,887,
+******************************************************************************
+14,89.71,,0,
